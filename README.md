@@ -8,5 +8,6 @@ A batch script to simplify github repository creation
 **Requirements**
 * cURL ([get it for windows](http://www.confusedbycode.com/curl/))
 
+---
 
 WIP: Only works in directories that have no existing git repository
