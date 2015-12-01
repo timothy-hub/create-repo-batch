@@ -7,4 +7,4 @@ WIP: Only works in directories that have no existing git repository
 
 create_repo \<name\> \<description\>
 
-*Note: description is optional*
+*Note: description is optional, name is not*
